@@ -19,3 +19,6 @@ Ratings and favorites are stored in CSV files (ratings.csv and favorites.csv) fo
 
 Favorites Section
 Quickly view all saved favorite recipes.
+
+
+Check out the live website [here](https://prajjwal.streamlit.app/)
